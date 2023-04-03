@@ -1,3 +1,4 @@
+clase Cómo se manejan los permisos 11/23
 # bash
 Linea de Comandos
 
@@ -33,3 +34,13 @@ muestra el contenido de las ultimas 10 filas del archivo
 
 # nautilus
     abre la interfaz de ventanas de la carpeta que selecciones
+
+# wildcards
+
+# > Redirecciona la salida. Por defecto redirecciona el Standar Output
+
+# > Concatena la salida con lo que ya tenga el archivo a donde se está redirigiendo la salida
+
+# 2> Redirecciona el file descriptor 2 (En este caso Standar Error)
+
+# 2>&1 Redirecciona el file descriptor 2 y 1
