@@ -1,4 +1,4 @@
-clase Cómo se manejan los permisos 11/23
+clase Cómo se manejan los permisos 13/23
 # bash
 Linea de Comandos
 
